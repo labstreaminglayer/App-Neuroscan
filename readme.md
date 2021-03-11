@@ -1,8 +1,12 @@
 # Overview
 
-The Neuroscan application is included with the full LSL distribution. This program should work with both the Synamp II and Synamp Wireless product series from Neuroscan (http://www.neuroscan.com/). It still needs to be tested, however.
+This program should work with both the Synamp II and Synamp Wireless product series from Neuroscan (http://www.neuroscan.com/). It still needs to be tested, however.
 
 Before you can use this program you need to obtain and install Neuroscan's Access SDK and the associated license dongle.
+
+# Downloading
+
+Please first check the Releases page to see if there is a release there for you. If not then you may find and old version on the sccn ftp: ftp://sccn.ucsd.edu/pub/software/LSL/Apps/
 
 # Usage
 
